@@ -1,2 +1,6 @@
 # fastai-walkthru
-Following live coding session by Jeremy Howard in YouTube for fastai
+
+## Introduction
+Following a coding session by Jeremy Howard on YouTube for fastai.
+
+
